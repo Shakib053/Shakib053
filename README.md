@@ -8,12 +8,12 @@ I build scalable iOS applications and explore AI-powered software systems using 
 
 <p>
   <a href="https://github.com/Shakib053">
-    <img src="https://img.shields.io/badge/GitHub-Shakib053-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Shakib053-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kazi-tanjim-shakib-36589819b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kazi%20Tanjim%20Shakib-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kazi%20Tanjim%20Shakib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Dhaka-Bangladesh-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dhaka-Bangladesh-28A745?style=for-the-badge" />
 </p>
 
 </div>
@@ -22,68 +22,101 @@ I build scalable iOS applications and explore AI-powered software systems using 
 
 ## About Me
 
-I am a **Senior Software Engineer specializing in iOS development**, with professional experience in building user-focused, scalable, and maintainable mobile applications.
-
-My core expertise is in **Swift, UIKit, SwiftUI, Combine, REST API integration, app architecture, debugging, testing, and performance optimization**.
-
-Alongside iOS engineering, I am actively building hands-on projects in the AI ecosystem, especially around **LLMs, Retrieval-Augmented Generation, embeddings, vector databases, hybrid search, and local AI workflows**.
-
-My current engineering direction is:
-
-> **iOS Engineering + AI-Powered Applications + Production-Ready Software**
+* 🔭 I’m currently working on **SmartThings iOS Mobile App**
+* 💼 I specialize in **iOS App Development, Swift, UIKit, SwiftUI, Combine, REST APIs, and app architecture**
+* 🤖 I’m actively learning and building with **LLMs, RAG systems, embeddings, vector databases, and local AI workflows**
+* 🧠 My current direction: **iOS Engineering + AI-Powered Applications + Production-Ready Software**
+* 📍 Based in **Dhaka, Bangladesh**
 
 ---
 
-## Core Skills
+## Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/kazi-tanjim-shakib-36589819b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
+  </a>
+  <a href="https://github.com/Shakib053">
+    <img src="https://skillicons.dev/icons?i=github" height="42" />
+  </a>
+</p>
+
+---
+
+## Languages and Tools
 
 ### iOS Development
 
-`Swift` · `UIKit` · `SwiftUI` · `Combine` · `Async/Await` · `URLSession` · `CoreData` · `SwiftData` · `MapKit` · `WidgetKit` · `WatchKit`
+<p>
+  <img src="https://skillicons.dev/icons?i=swift" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="45" />
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Combine-147EFB?style=for-the-badge&logo=apple&logoColor=white" />
+</p>
 
-### Architecture & Engineering
+### Programming Languages
 
-`MVC` · `MVVM` · `MVVM-C` · `Clean Code` · `SOLID` · `Unit Testing` · `UI Testing` · `Performance Optimization` · `Code Review`
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,python,c,cpp,javascript" height="45" />
+</p>
 
-### AI / LLM Engineering
+### AI / LLM / RAG
 
-`Python` · `LangChain` · `RAG` · `Embeddings` · `ChromaDB` · `BM25` · `Hybrid Search` · `Reranking` · `Hugging Face` · `Ollama`
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6F42C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-Vector%20Database-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BM25-Hybrid%20Search-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-Models-FFD21E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-Local%20LLM-000000?style=for-the-badge" />
+</p>
 
-### Backend & Tools
+### Backend, Database and Web
 
-`FastAPI` · `Firebase` · `Firestore` · `React` · `Git` · `GitHub` · `Postman` · `Jupyter Notebook` · `VS Code` · `Xcode`
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,firebase,react,vite,html,css" height="45" />
+</p>
+
+### Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" />
+</p>
+
+---
+
+## Core Engineering Strengths
+
+```text
+iOS Development        Swift · UIKit · SwiftUI · Combine · URLSession
+Architecture           MVC · MVVM · MVVM-C · Clean Code · SOLID
+Testing & Quality      Unit Testing · UI Testing · Debugging · Code Review
+Performance            Instruments · Memory Optimization · App Responsiveness
+AI Engineering          RAG · Embeddings · Vector Search · Hybrid Search · LLM Apps
+Backend & Tools         FastAPI · Firebase · Firestore · Git · GitHub · Postman
+```
 
 ---
 
 ## What I’m Working On
 
-* Building production-quality iOS applications with Swift, UIKit, and SwiftUI
+* Building production-quality iOS applications with **Swift, UIKit, and SwiftUI**
 * Improving app architecture, testing, debugging, and performance optimization skills
-* Building RAG systems using LangChain, ChromaDB, BM25, and Hugging Face embeddings
-* Exploring on-device AI and AI-powered mobile app experiences
+* Building RAG systems using **LangChain, ChromaDB, BM25, and Hugging Face embeddings**
+* Exploring **on-device AI** and AI-powered mobile app experiences
 * Learning backend deployment and CI/CD for full product delivery
 
 ---
 
-## Featured Direction
+## Engineering Philosophy
 
-I am focused on becoming stronger at the intersection of:
-
-```text
-Mobile Engineering
-AI-Powered Applications
-Backend & Cloud Integration
-Production-Ready Architecture
-```
-
-I want to build intelligent, useful, and scalable products where strong mobile engineering meets modern AI capabilities.
-
----
-
-## Connect With Me
-
-* GitHub: [github.com/Shakib053](https://github.com/Shakib053)
-* LinkedIn: [linkedin.com/in/kazi-tanjim-shakib-36589819b](https://www.linkedin.com/in/kazi-tanjim-shakib-36589819b/)
-* Location: Dhaka, Bangladesh
+> Build simple first.
+> Make it correct.
+> Make it clean.
+> Then make it scalable.
 
 ---
 
