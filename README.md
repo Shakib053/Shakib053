@@ -30,18 +30,6 @@ I build scalable iOS applications and explore AI-powered software systems using 
 
 ---
 
-## Connect with Me
-
-<p>
-  <a href="https://www.linkedin.com/in/kazi-tanjim-shakib-36589819b/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
-  </a>
-  <a href="https://github.com/Shakib053">
-    <img src="https://skillicons.dev/icons?i=github" height="42" />
-  </a>
-</p>
-
----
 
 ## Languages and Tools
 
@@ -63,14 +51,14 @@ I build scalable iOS applications and explore AI-powered software systems using 
 
 ### AI / LLM / RAG
 
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6F42C1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ChromaDB-Vector%20Database-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BM25-Hybrid%20Search-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-Models-FFD21E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ollama-Local%20LLM-000000?style=for-the-badge" />
-</p>
+- LLM Application Development
+- Retrieval-Augmented Generation
+- Embeddings & Vector Search
+- Hybrid Search with ChromaDB and BM25
+- Reranking & Retrieval Optimization
+- Hugging Face and Ollama Workflows
+- AI-Powered iOS Applications
+
 
 ### Backend, Database and Web
 
@@ -90,14 +78,14 @@ I build scalable iOS applications and explore AI-powered software systems using 
 
 ## Core Engineering Strengths
 
-```text
-iOS Development        Swift · UIKit · SwiftUI · Combine · URLSession
-Architecture           MVC · MVVM · MVVM-C · Clean Code · SOLID
-Testing & Quality      Unit Testing · UI Testing · Debugging · Code Review
-Performance            Instruments · Memory Optimization · App Responsiveness
-AI Engineering          RAG · Embeddings · Vector Search · Hybrid Search · LLM Apps
-Backend & Tools         FastAPI · Firebase · Firestore · Git · GitHub · Postman
-```
+| Area | Strengths |
+|---|---|
+| 📱 **iOS Development** | Swift · UIKit · SwiftUI · Combine · URLSession · CoreData · SwiftData |
+| 🧱 **Architecture** | MVC · MVVM · MVVM-C · Clean Code · SOLID · Scalable Feature Design |
+| 🧪 **Quality Engineering** | Unit Testing · UI Testing · Debugging · Code Review · Refactoring |
+| ⚡ **Performance** | Instruments · Memory Optimization · App Responsiveness · Runtime Analysis |
+| 🤖 **AI Engineering** | LLM Apps · RAG · Embeddings · Vector Search · Hybrid Search · Reranking |
+| 🔧 **Backend & Tools** | FastAPI · Firebase · Firestore · Git · GitHub · Postman · Jupyter |
 
 ---
 
@@ -111,17 +99,3 @@ Backend & Tools         FastAPI · Firebase · Firestore · Git · GitHub · Pos
 
 ---
 
-## Engineering Philosophy
-
-> Build simple first.
-> Make it correct.
-> Make it clean.
-> Then make it scalable.
-
----
-
-<div align="center">
-
-### Clean Code · Mobile Engineering · AI Applications · Continuous Learning
-
-</div>
